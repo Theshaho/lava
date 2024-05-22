@@ -23,7 +23,7 @@ Ctrl+X / Y / Enter
 
 ### Run Starknet Mainnet
 ```
-screen -S lava-eth
+screen -S lava-stark-main
 ```
 ```
 python3 stark_main.py
