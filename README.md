@@ -26,6 +26,6 @@ Ctrl+X / Y / Enter
 screen -S lava-stark-main
 ```
 ```
-python3 stark_main.py
+python3 starknet_main.py
 ```
 CTRL + A + D
