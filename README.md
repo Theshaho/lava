@@ -15,7 +15,7 @@ git clone https://github.com/Theshaho/lava/
 ```
 cd lava
 ```
-## Change ETH RPC & (Wallet: optional)
+## Change Starknet Main RPC
 ```
 nano rpc.py
 ```
